@@ -1,0 +1,14 @@
+
+.game-card {
+  height: 100vh;
+  font-family: 'Open Sans', monospace;
+  color: #38158b;
+  font-size: 200%;
+  text-align: center;
+  border-top-color:blueviolet;
+  background-color: red;
+}
+P {
+  padding-left: 10px;
+}
+   
